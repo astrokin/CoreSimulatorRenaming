@@ -7,4 +7,4 @@ Script will add additional file to the particular core simulator's folder.
 2. put sh identifire.sh
 3. press Enter
 
-Open with Finder at /Library/Developer/CoreSimulator/Devices and you will easily understand what device are you looking through
+Open with Finder at /Library/Developer/CoreSimulator/Devices and you will easily understand what iOS simulator are you looking through
