@@ -9,4 +9,6 @@ Script will add additional file to the particular core simulator's folder.
 
 Open with Finder at /Library/Developer/CoreSimulator/Devices and you will easily understand what iOS simulator are you looking through
 
+![alt tag](core-sim-shell.png)
+
 :) Don't be serious - it's my first ever script.
