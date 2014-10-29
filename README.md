@@ -11,4 +11,3 @@ Open with Finder at /Library/Developer/CoreSimulator/Devices and you will easily
 
 ![alt tag](core-sim-shell.png)
 
-:) Don't be serious - it's my first ever script.
